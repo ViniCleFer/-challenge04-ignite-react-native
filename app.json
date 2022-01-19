@@ -4,11 +4,9 @@
   "expo": {
     "name": "stream.data",
     "scheme": "stream.data",
-    "slug": "streamData",
+    "slug": "streamDataDark",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "androidStatusBar": {
       "barStyle": "light-content",
       "translucent": true,
